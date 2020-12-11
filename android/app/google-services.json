@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "648183876337",
+    "project_id": "accessale-a0e75",
+    "storage_bucket": "accessale-a0e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648183876337:android:97743fff15a5767aaab750",
+        "android_client_info": {
+          "package_name": "com.accessale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648183876337-d6mdaoip6pa63dbfb4mii1rago34g977.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.accessale",
+            "certificate_hash": "8268e74795244202482028eb73c71a6308e78104"
+          }
+        },
+        {
+          "client_id": "648183876337-4vuampg35r3vuber07ljt9bod3puge1e.apps.googleusercontent.com",
+          "client_type": 3
+          
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbEOA3mPI3Agl4CNO16wZbonYNF51Udos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648183876337-4vuampg35r3vuber07ljt9bod3puge1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
